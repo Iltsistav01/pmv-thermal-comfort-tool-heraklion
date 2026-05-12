@@ -127,7 +127,7 @@ SEASON    = "Summer"  # "Summer" or "Winter"
 
 If you use this code, please cite:
 
-> Iltsidis, S. (2025). *Investigation of Energy Performance and Thermal Comfort in Residential Buildings through Processing of Energy Consumption and Indoor Air Property Time Series*. Undergraduate Thesis, Department of Mechanical Engineering, Hellenic Mediterranean University.
+> Iltsidis, S. (2025), Undergraduate Thesis, Department of Mechanical Engineering, Hellenic Mediterranean University. *Investigation of Energy Performance and Thermal Comfort in Residential Buildings through Processing of Energy Consumption and Indoor Air Property Time Series*. Published:https://apothesis.hmu.gr/items/c1962d12-7b25-4812-a90e-bcfa90d6e8f2
 
 ---
 
