@@ -1,0 +1,27 @@
+# Data files (not committed to the repository)
+data/
+*.xlsx
+*.xlsm
+*.csv
+
+# Generated diagram images
+outputs/
+*.jpg
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Anaconda / virtual environments
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
